@@ -1,4 +1,4 @@
-[![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2023/07/history-of-AI-art.jpg)
+![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2023/07/history-of-AI-art.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate ML/DL Engineer</h3>
 
