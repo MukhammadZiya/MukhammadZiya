@@ -1,6 +1,6 @@
 ![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2023/07/history-of-AI-art.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate ML/DL Engineer</h3>
+<h3 align="center">AI , SE </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
